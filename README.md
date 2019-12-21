@@ -12,8 +12,15 @@ The ability for Baltimore City Government to provide quality service to its citi
 
 # High-Level Findings & Suggestions
 
-Our findings identified the top worst performing departments as the *Office of Criminal Justice, Office of Inspector General*, and the *Office of Civil Rights* by turnover and vacancy rates. Additionally, we noticed a correlation between frequent leadership changes and high employee turnover within agencies. Compared to the national metrics from the Bureau of Labor Statistics for state and local governments, excluding education, Baltimore City Government consistently has a net loss of employees whereas the national trend is to gain employees.
+Compared to the national metrics from the Bureau of Labor Statistics for state and local governments, excluding education, Baltimore City Government consistently has a net loss of employees whereas the national trend is to gain employees.
 
-# Provide concrete steps and/or tools for the Baltimore City team to use this information in their future work
-# Mention additional department or division needs based on your findings
-Our recommendation would be to focus efforts on retaining leaders and cultivating a culture of dedication/loyalty to the departments rather than to the department head.
+![alt text](https://github.com/rsilve22/Business-Analytics-Final-Project/blob/master/Baltimore%20vs.%20BLS%20Data%20Turnover.png)
+
+
+Our findings identified the top worst performing departments as the **Office of Criminal Justice, Office of Inspector General**, and the **Office of Civil Rights** by turnover and vacancy rates. The **Police, Public Works, and Health** departments also indicated high numbers of vacancy and frequently had more than 1 person occupy a given position during one fiscal year.
+Additionally, we noticed a correlation between frequent leadership changes and high employee turnover within agencies. 
+
+Based on these findings, our recommendations would be to focus efforts on retaining leaders and cultivating a culture of dedication/loyalty to the departments rather than to the department head.
+
+# Future Steps for Data Analysis
+
