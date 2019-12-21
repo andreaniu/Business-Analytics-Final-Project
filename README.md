@@ -20,6 +20,5 @@ Compared to the national metrics from the Bureau of Labor Statistics for state a
 Our findings identified the top worst performing departments as the **Office of Criminal Justice, Office of Inspector General**, and the **Office of Civil Rights** by turnover and vacancy rates. The **Police, Public Works, and Health** departments also indicated high numbers of vacancy and frequently had more than 1 person occupy a given position during one fiscal year.
 Additionally, we noticed a correlation between frequent leadership changes and high employee turnover within agencies. 
 
-Based on these findings, our recommendations would be to focus efforts on retaining leaders and cultivating a culture of dedication/loyalty to the departments rather than to the department head.
+Based on these findings, our recommendations would be to focus efforts on retaining leaders and cultivating a culture of dedication/loyalty to the departments rather than to the department head through improved career development opportunities and small but frequent time-milestone based incentives. We also suggest streamlining the transition/onboarding process by including the outgoing employee in the interview and training process. 
 
-# Future Steps for Data Analysis
