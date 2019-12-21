@@ -25,3 +25,9 @@ Based on these findings, our recommendations would be to focus efforts on:
 * cultivating a culture of dedication/loyalty to the department through improved career development opportunities and small but frequent time-milestone based incentives,
 * streamlining the transition/onboarding process by including the outgoing employee in the interview and training process. 
 
+
+# Datasets Used
+* https://drive.google.com/file/d/1DGNu2Lzou05dL4ybb82islCQf2JIA5z3/view
+* https://drive.google.com/file/d/1VJ9MpLwIzVEmiVQXhOP_HhNQieXsD3rT/view
+* https://drive.google.com/file/d/1t5pq3HIoyDKSqGEBByL9NslJx7osczSQ/view
+
