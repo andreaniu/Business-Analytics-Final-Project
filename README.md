@@ -23,4 +23,3 @@ Additionally, we noticed a correlation between frequent leadership changes and h
 Based on these findings, our recommendations would be to focus efforts on retaining leaders and cultivating a culture of dedication/loyalty to the departments rather than to the department head.
 
 # Future Steps for Data Analysis
-
