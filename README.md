@@ -14,7 +14,7 @@ The ability for Baltimore City Government to provide quality service to its citi
 
 Compared to the national metrics from the Bureau of Labor Statistics for state and local governments, excluding education, Baltimore City Government consistently has a net loss of employees whereas the national trend is to gain employees.
 
-![alt text](https://github.com/rsilve22/Business-Analytics-Final-Project/blob/master/Baltimore%20vs.%20BLS%20Data%20Turnover.png)
+
 
 
 Our findings identified the top worst performing departments as the **Office of Criminal Justice, Office of Inspector General**, and the **Office of Civil Rights** by turnover and vacancy rates. The **Police, Public Works, and Health** departments also indicated high numbers of vacancy and frequently had more than 1 person occupy a given position during one fiscal year.
