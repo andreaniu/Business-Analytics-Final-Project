@@ -12,8 +12,8 @@ The ability for Baltimore City Government to provide quality service to its citi
 
 # High-Level Findings & Suggestions
 
-Our findings identified the top worst performing departments as the *Office of Criminal Justice, Office of Inspector General*, and the *Office of Civil Rights* by turnover and vacancy rates. Additionally, we noticed a correlation between frequent leadership changes and high employee turnover within agencies. Our recommendation would be to focus efforts on retaining leaders and cultivating a culture of dedication/loyalty to the departments rather than to the department head.
+Our findings identified the top worst performing departments as the *Office of Criminal Justice, Office of Inspector General*, and the *Office of Civil Rights* by turnover and vacancy rates. Additionally, we noticed a correlation between frequent leadership changes and high employee turnover within agencies. Compared to the national metrics from the Bureau of Labor Statistics for state and local governments, excluding education, Baltimore City Government consistently has a net loss of employees whereas the national trend is to gain employees.
 
 # Provide concrete steps and/or tools for the Baltimore City team to use this information in their future work
 # Mention additional department or division needs based on your findings
-# Help answer the Baltimore City team’s initial questions in their problem statement
+Our recommendation would be to focus efforts on retaining leaders and cultivating a culture of dedication/loyalty to the departments rather than to the department head.
